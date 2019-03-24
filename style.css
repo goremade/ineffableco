@@ -385,7 +385,7 @@ button {
 	text-align: ;
 	text-transform: uppercase;
 	width: 60%;
-	margin: 0 auto 0 auto;
+	margin: 0 auto 1rem auto;
 	border-bottom: 1px solid #000;
 }
 
