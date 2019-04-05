@@ -40,6 +40,7 @@ p {
 }
 
 button {
+	background-color: #fff;
 	outline: none;
 	cursor: pointer;
 }
@@ -383,9 +384,9 @@ button {
 
 .paragraph-container {
 	text-align: ;
-	text-transform: uppercase;
+	text-transform: ;
 	width: 60%;
-	margin: 0 auto 1rem auto;
+	margin: 0 auto 2rem auto;
 	border-bottom: 1px solid #000;
 }
 
@@ -394,12 +395,17 @@ button {
 	padding: 1rem 0 1rem 0;
 }
 
+.paragraph-container a {
+	font-family: 'Share Tech Mono', monospace;
+	font-size: 17px;
+}
+
 /******************* LOOKBOOK *******************/
 
 .img-gallery-viewport {
 	display: flex;
 	width: 100%;
-	height: 50rem;
+	height: 30rem;
 	padding: 0.5rem;
 	box-sizing: border-box;
 	overflow: hidden;
